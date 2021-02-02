@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('1654851308:AAFTPayJhexWf1eakc0w3yVs5Zy40W_Gl-U')
+bot = telebot.TeleBot('###')
 
 
 @bot.message_handler(commands=['website'])
