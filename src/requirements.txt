@@ -1,0 +1,16 @@
+calc==1.0
+certifi==2020.12.5
+chardet==4.0.0
+cycler==0.10.0
+idna==2.10
+kiwisolver==1.1.0
+matplotlib==3.1.2
+numpy==1.18.1
+pandas==0.25.3
+pyparsing==2.4.6
+pyTelegramBotAPI==3.7.6
+python-dateutil==2.8.1
+pytz==2019.3
+requests==2.25.1
+six==1.14.0
+urllib3==1.26.3
